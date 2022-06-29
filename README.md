@@ -1,7 +1,7 @@
 ## Sobre mim: ##
 
 - Oie eu sou @gabipaulim015 sou estudante, estudo em um colégio público do Estado do Paraná
-- Tenho 16 anos, e aqui vou criar projetos, na área da proramação.
+- Tenho 16 anos, e aqui vou criar projetos, na área da programação.
 
 
 <!---
